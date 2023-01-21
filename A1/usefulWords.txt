@@ -8,3 +8,41 @@
 "delante de" (in front of) - La flor está delante de la ventana. (The flower is in front of the window.)
 "encima de" (on top of) - El reloj está encima de la mesa. (The clock is on top of the table.)
 "bajo" (below) - El pez está bajo el agua. (The fish is below the water.)
+
+Here are some examples of the most common participles in Spanish:
+
+Present participles:
+
+-ando (for -ar verbs) : Estoy hablando (I am speaking)
+-iendo (for -er/-ir verbs): Estoy escribiendo (I am writing)
+Past participles:
+
+-ado (for -ar verbs) : hablado (spoke)
+-ido (for -er/-ir verbs): escrito (written)
+Past participles can also be used to form compound tenses like the perfect and the pluperfect. They are formed with the auxiliary verb "haber" and the past participle of the main verb, for example:
+
+He leído (I have read)
+Había comido (I had eaten)
+Past participles are also used to form the passive voice, which is formed with the verb "ser" and the past participle, for example:
+
+La casa es construida (The house is built)
+
+
+In Spanish, here are some common words for family members, along with examples of how they are used in a sentence:
+
+Padre (father) - Mi padre trabaja como abogado. (My father works as a lawyer.)
+Madre (mother) - Mi madre es enfermera. (My mother is a nurse.)
+Hijo (son) - Tengo un hijo llamado Juan. (I have a son named Juan.)
+Hija (daughter) - Tengo una hija llamada Maria. (I have a daughter named Maria.)
+Abuelo (grandfather) - Mi abuelo es jubilado. (My grandfather is retired.)
+Abuela (grandmother) - Mi abuela es cocinera. (My grandmother is a cook.)
+Hermano (brother) - Mi hermano es estudiante universitario. (My brother is a college student.)
+Hermana (sister) - Mi hermana es profesora. (My sister is a teacher.)
+Tío (uncle) - Mi tío es ingeniero. (My uncle is an engineer.)
+Tía (aunt) - Mi tía es dentista. (My aunt is a dentist.)
+Primo (cousin, male) - Mi primo es muy divertido. (My cousin is very fun.)
+Prima (cousin, female) - Mi prima es muy inteligente. (My cousin is very intelligent.)
+Esposo (husband) - Mi esposo es muy amable. (My husband is very kind.)
+Esposa (wife) - Mi esposa es muy cariñosa. (My wife is very affectionate.)
+Novio (boyfriend) - Mi novio es muy divertido. (My boyfriend is very fun.)
+Novia (girlfriend) - Mi novia es muy inteligente. (My girlfriend is very intelligent.)
