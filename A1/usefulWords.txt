@@ -19,7 +19,8 @@ Past participles:
 
 -ado (for -ar verbs) : hablado (spoke)
 -ido (for -er/-ir verbs): escrito (written)
-Past participles can also be used to form compound tenses like the perfect and the pluperfect. They are formed with the auxiliary verb "haber" and the past participle of the main verb, for example:
+Past participles can also be used to form compound tenses like the perfect and the pluperfect. 
+They are formed with the auxiliary verb "haber" and the past participle of the main verb, for example:
 
 He leído (I have read)
 Había comido (I had eaten)
