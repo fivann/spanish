@@ -47,3 +47,36 @@ Estoy buscando... (I'm looking for...)
 ¿Está cerca? (Is it close?)
 ¿Puedo seguirte? (Can I follow you?)
 ¿Me puedes dar tu número de teléfono? (Can you give me your phone number?)
+
+========================================
+
+¡Por favor! - Please!
+¡Gracias! - Thank you!
+¡De nada! - You're welcome!
+¡Lo siento! - I'm sorry!
+¡Perdón! - Excuse me!
+¡No hay problema! - No problem!
+¡Claro! - Of course!
+¡Sí! - Yes!
+¡No! - No!
+¡Qué lástima! - What a shame!
+¡Qué suerte! - How lucky!
+¡Qué interesante! - How interesting!
+¡Qué divertido! - How fun!
+¡Qué bonito! - How beautiful!
+¡Qué rico! - How delicious!
+¡Qué asco! - How disgusting!
+¡Qué hora es? - What time is it?
+¡Dónde está el baño? - Where is the bathroom?
+¿Cómo te llamas? - What's your name?
+¿De dónde eres? - Where are you from?
+¿Cuánto cuesta? - How much does it cost?
+¡Qué bien! - How great!
+¡Qué tal? - How are you?
+¡Qué alegría verte! - How nice to see you!
+¡Qué lastima no poder ir! - What a shame not to be able to go!
+¡Qué buena idea! - What a good idea!
+¡Qué pena! - What a pity!
+¡Qué curioso! - How curious!
+¡Qué bonito! - How nice!
+¡Qué raro! - How strange!
