@@ -1,0 +1,74 @@
+PREPOSITIONS
+
+A (to, at)
+De (of, from)
+Con (with)
+Sin (without)
+Sobre (on, about)
+Por (for, by)
+Entre (between)
+Durante (during)
+En (in)
+Hacia (towards)
+Según (according to)
+Ante (before)
+
+ARTICLES
+
+El (the)
+La (the)
+Los (the)
+Las (the)
+Un (a, one)
+Una (a, one)
+Unos (some)
+Unas (some)
+
+PATRICLES
+
+Que (that)
+Si (if)
+Como (as, how)
+Cuando (when)
+Donde (where)
+Cómo (how)
+Cuyo (whose)
+Cual (which)
+
+COLORS
+
+Azul (blue)
+Rojo (red)
+Verde (green)
+Amarillo (yellow)
+Blanca (white)
+Negra (black)
+Gris (gray)
+Morada (purple)
+Rosa (pink)
+Naranja (orange)
+Marrón (brown)
+Beige (beige)
+
+
+DIRECTIONS
+
+Norte (north)
+Sur (south)
+Este (east)
+Oeste (west)
+Norte-este (northeast)
+Norte-oeste (northwest)
+Sur-este (southeast)
+Sur-oeste (southwest)
+
+Arriba (up)
+Abajo (down)
+Izquierda (left)
+Derecha (right)
+
+Adelante (forward)
+Atrás (back)
+Dentro (inside)
+Fuera (outside)
+
