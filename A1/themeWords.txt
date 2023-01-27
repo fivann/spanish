@@ -72,3 +72,25 @@ Atrás (back)
 Dentro (inside)
 Fuera (outside)
 
+CHUNKS
+
+"Voy a" - "I am going to"
+"Quiero" - "I want"
+"Tengo que" - "I have to"
+"Puedo" - "I can"
+"Soy" - "I am"
+"Eres" - "You are"
+"Es" - "It is"
+"Estoy" - "I am"
+"Estás" - "You are"
+"Está" - "It is"
+"Estamos" - "We are"
+"Estáis" - "You all are"
+"Están" - "They are"
+"Me gusta" - "I like"
+"No" - "No"
+"Sí" - "Yes"
+"Hay" - "There is/are"
+"Espero" - "I hope"
+"Necesito" - "I need"
+"Puede ser" - "Maybe"
